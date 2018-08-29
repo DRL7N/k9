@@ -2,9 +2,9 @@
   "name": "bytetech",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "xml.js",
+  "main": "xml2.js",
   "scripts": {
-    "start": "node xml.js"
+    "start": "node xml2.js"
   },
   "dependencies": {
     "ascii-data-table": "^2.1.1",
